@@ -1,4 +1,4 @@
-This github folder contains the contents presented at PyData 2017
+This github folder contains the contents presented at PyData 2017.
 
 Clone this repository to get the notebooks and data:
 
