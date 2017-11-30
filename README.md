@@ -13,5 +13,8 @@ conda install matplotlib
 conda install seaborn
 conda install scikit-learn
 conda install pip
+# For graphviz to work, you will need the executable installed on your system.
+# On a mac, you can simply run `brew install graphviz` if you have Homebrew installed.
 pip install graphviz
+pip install lifelines
 ```
