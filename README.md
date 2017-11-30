@@ -11,6 +11,7 @@ conda install statsmodels
 conda install patsy
 conda install matplotlib
 conda install seaborn
+conda install scikit-learn
 conda install pip
 pip install graphviz
 ```
