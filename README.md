@@ -9,6 +9,8 @@ With Anaconda, install the following packages with these commands:
 ```
 conda install statsmodels.api
 conda install patry
+conda install matplotlib
+conda install seaborn
 conda install pip
 pip install graphviz
 ```
