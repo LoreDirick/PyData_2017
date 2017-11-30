@@ -7,8 +7,8 @@ Clone this repository to get the notebooks and data:
 With Anaconda, install the following packages with these commands:
 
 ```
-conda install statsmodels.api
-conda install patry
+conda install statsmodels
+conda install patsy
 conda install matplotlib
 conda install seaborn
 conda install pip
